@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Mental_Health_and_Awareness/static/css/main.7c2a1916.chunk.css",
+    "main.js": "/Mental_Health_and_Awareness/static/js/main.138a85ab.chunk.js",
+    "main.js.map": "/Mental_Health_and_Awareness/static/js/main.138a85ab.chunk.js.map",
+    "runtime-main.js": "/Mental_Health_and_Awareness/static/js/runtime-main.5286a0ef.js",
+    "runtime-main.js.map": "/Mental_Health_and_Awareness/static/js/runtime-main.5286a0ef.js.map",
+    "static/js/2.619a96ad.chunk.js": "/Mental_Health_and_Awareness/static/js/2.619a96ad.chunk.js",
+    "static/js/2.619a96ad.chunk.js.map": "/Mental_Health_and_Awareness/static/js/2.619a96ad.chunk.js.map",
+    "index.html": "/Mental_Health_and_Awareness/index.html",
+    "static/css/main.7c2a1916.chunk.css.map": "/Mental_Health_and_Awareness/static/css/main.7c2a1916.chunk.css.map",
+    "static/js/2.619a96ad.chunk.js.LICENSE.txt": "/Mental_Health_and_Awareness/static/js/2.619a96ad.chunk.js.LICENSE.txt",
+    "static/media/home.55661ae9.jpg": "/Mental_Health_and_Awareness/static/media/home.55661ae9.jpg",
+    "static/media/tips.98adab09.jpg": "/Mental_Health_and_Awareness/static/media/tips.98adab09.jpg",
+    "static/media/yoga.dc12acb8.jpg": "/Mental_Health_and_Awareness/static/media/yoga.dc12acb8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5286a0ef.js",
+    "static/js/2.619a96ad.chunk.js",
+    "static/css/main.7c2a1916.chunk.css",
+    "static/js/main.138a85ab.chunk.js"
+  ]
+}
