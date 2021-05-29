@@ -1,0 +1,32 @@
+.container{
+    padding: 5% 20%;
+  
+  }
+  h1 {
+      padding: 5% 20%;
+    font-family: "Montserrat-Black";
+    font-size: 3.5rem;
+    line-height: 1.5;
+    background-color: #faf3f3;
+  }
+   h2 {
+    font-family: "Montserrat-Bold";
+  
+  }
+  p{
+    color: #8f8f8f;
+    font-size: 1rem;
+    line-height: 1.5;
+      background-color: #fffbdf;
+  
+  }
+  
+  
+  .pic {
+  
+    width: 30%;
+    border-radius: 100%;
+    margin: 20px;
+  
+  }
+  

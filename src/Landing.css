@@ -1,0 +1,46 @@
+body{
+    background-color: #E5D4CB ;
+}
+.landing-container {
+    display: flex;
+    min-height: 90vh;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+    padding: 0 32px;
+    font-family: "Bangers", cursive;
+    margin: 0;
+    flex-wrap: wrap;
+}
+
+.landing-header {
+    font-size: 62px;
+    margin: 0;
+    letter-spacing: 4px;
+}
+
+.typewriter-container {
+    font-size: 44px;
+    letter-spacing: 2px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:#F16E2C ;
+}
+
+.home-image {
+    width: 40vw;
+    border-radius: 50px;
+    border: 2px solid black;
+}
+
+.landing-left{
+    width: 50%;
+
+}
+
+.landing-right{
+    margin-top: 0%;
+    display: flex;
+    justify-content: flex-end;
+    margin-left: auto;
+}
